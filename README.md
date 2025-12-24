@@ -11,7 +11,7 @@
 ### Team Members
 - Team Lead: Manukrishna ck - GEC palakkad
 - Member 2: Abhishek s - GEC palakkad
-- Member 3: [Name] - [College]
+
 
 ### Project Description
 This project is a hilarious twist on authentication — you can only log in if you smile 😁. Once inside, you’ll find equally “useless” OpenCV-powered features like a video that only plays when your eyes are closed and a draggable watch that shows the time in the silliest way possible. Built with Flask, OpenCV, and zero seriousness.
@@ -83,28 +83,7 @@ For Software:
 ![watch detection](photos/watch_detection.png)
 *A draggable watch that finally answers the question “What time is it?” in the weirdest way possible.*  
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 
 ### Project Demo
@@ -121,7 +100,7 @@ For Hardware:
 ## Team Contributions
 - [manu]: [open cv]
 - [abhishek]: [ui integration]
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
